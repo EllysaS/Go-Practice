@@ -1,3 +1,3 @@
-# Go - Practice
+# Go
 
 A workthrough of https://tour.golang.org
